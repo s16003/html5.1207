@@ -1,0 +1,13 @@
+/*
+ 擬似クラス
+*/
+
+/*li:not(.target)*/
+/*li:empty*/
+/*li:empty*/
+/*input[type="text"]:enabled*/
+/*input[type="text"]:disabled*/
+input[type="checkbox"]:checked + label
+{
+	background: violet;
+}
